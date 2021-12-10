@@ -1,5 +1,4 @@
 # Introduction to Deep Learning 
-# By Chloé Sekkat
 
 This repository has been made as an introduction to deep learning for me, in order to familiarise myself with some basic
 topics and frameworks.
